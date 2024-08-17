@@ -1,4 +1,4 @@
-# ![image](https://github.com/marisathewitch/Faithful32-AE2-UEL/assets/5376817/e4d57547-5ebf-4d17-ba25-8163a1561d88) Faithful32 AE2 UEL
+# ![image](https://github.com/user-attachments/assets/fd53c3ca-66fe-452e-b259-7ab2b39282ba) Faithful32 AE2 UEL
 
 Faithful 32 resource pack for AE2 UEL mods.
 ## Included
@@ -10,7 +10,7 @@ All credit goes to Faithful-Mods.
 They do 90% of all work.
 
 # Screenshots
-![image](https://github.com/marisathewitch/Faithful32-AE2-UEL/assets/5376817/fa5c454c-9425-4986-89bb-26b6cbb73894)
+![image](https://github.com/user-attachments/assets/c24a1fe5-c3f1-486e-af8f-79204583d895)
 
 # Dont forget unpack zip file
 
