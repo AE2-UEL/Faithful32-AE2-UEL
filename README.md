@@ -13,7 +13,7 @@ Faithful 32 resource pack for AE2 UEL and related mods.
 * [Neeve's AE2: Extended Life Additions (NAE2)](https://github.com/AE2-UEL/NAE2)
 
 All credit goes to Faithful-Mods.
-They do 90% of all work.
+They do 95% of all work.
 
 # Screenshots
 ![image](https://github.com/user-attachments/assets/c24a1fe5-c3f1-486e-af8f-79204583d895)
